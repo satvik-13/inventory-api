@@ -1,4 +1,5 @@
 # 📦 Inventory & Order Management REST API
+CHECK OUT THE LIVE APP - https://inventory-api-production-71d8.up.railway.app
 
 A production-grade REST API for retail inventory management built with **Spring Boot 3**, **Hibernate ORM**, **H2/MySQL**, and **Swagger/OpenAPI**.
 
