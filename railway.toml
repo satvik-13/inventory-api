@@ -1,0 +1,8 @@
+[build]
+builder = "NIXPACKS"
+
+[deploy]
+startCommand = "java -jar target/inventory-api-1.0.0.jar"
+healthcheckPath = "/api/dashboard"
+healthcheckTimeout = 60
+restartPolicyType = "ON_FAILURE"
